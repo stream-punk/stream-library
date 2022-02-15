@@ -1,0 +1,3 @@
+[submodule "multi-samples/General-User-Drums"]
+	path = multi-samples/General-User-Drums
+	url = git@github.com:Stream-Punk/General-User-Drums.git
