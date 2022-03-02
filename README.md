@@ -1,6 +1,30 @@
 Stream Punk's Bitwig Presets
 ============================
 
+Addiktone
+---------
+
+An easy, airy additive synthesizer. There is almost no setting that doesn't
+work, while you can produce unique, rich and sometimes slightly dented sounds.
+By default it pulls many stereo tricks and has a very wide image. The rich
+overtones make it very present, but you can tone it down so it plays nicely in
+the background.
+
+The overtones create a randomized moving shape, you can change the amount with
+the `Moving` knob. The overtones are slightly panned and moving in the stereo
+image, controlled by the `Spread` knob. If you turn the `Random` knob down, the
+shape of the overtones repeats and becomes deterministic. Turn it all the way up
+for maximum blessings from the god of `Dices`.
+
+The main sound-shaping comes from `Skew`, `Fold`, `Detune` and `Follow`. If you
+know the `Poly Grid` these are no strangers to you. Just twist those knobs,
+you'll get the hang it easily.
+
+Then there is your standard envelope-controlled, key-tracked low-pass filter
+and a `Multinote` device playing a fifth for maximum richness.
+
+https://youtu.be/qJ284O69YeQ
+
 Note Mode
 ---------
 
